@@ -1,6 +1,6 @@
 # clj-data-solutions
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to store useful patterns for manipulating data in clojure.
 
 ## Usage
 
